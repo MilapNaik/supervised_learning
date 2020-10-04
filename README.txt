@@ -1,5 +1,4 @@
-# supervised_learning
-Supervised Learning for CS 7651 Machine Learning
+Readme
 
 Data found at:
 Breast Cancer Wisconsin (Original) Data Set: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29

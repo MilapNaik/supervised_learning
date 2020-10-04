@@ -14,8 +14,8 @@ To run code;
 - Go to root node of code repo and run python supervisedLearning.py
 - Set the following values to True or False depending on what graph or dataset or algorithm you are trying to create:
     - breast_cancer = True
-    - dtree = False
-    - nn = False
-    - boosting = False
-    - svm = False
+    - dtree = True
+    - nn = True
+    - boosting = True
+    - svm = True
     - knn = True
